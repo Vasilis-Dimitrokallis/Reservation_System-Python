@@ -15,6 +15,9 @@ The main objective is to create a system that handles:
 * **Python 3.x**
 * **NumPy:** For grid-based availability tracking.
 * **Pandas:** For data manipulation, CSV parsing, and Excel reporting.
+* ## 📸 Demo
+Running the system: Importing external bookings and testing the collision detection algorithm.
+![System Demo](res.jpg)
 
 ## ⚠️ Configuration & Customization (Read Before Use)
 **Note:** This system is currently hardcoded for a specific **10-room hospitality business**. To run this for your own use case, you will need to modify specific parts of the code:
@@ -39,4 +42,5 @@ The next phase of development focuses on **Data Science & Business Intelligence*
 * [ ] **Dynamic Configuration:** Load room settings from a config file.
 
 ## 📬 Contact
+
 Created by **Vasilis Dimitrokallis** - [LinkedIn Profile](https://www.linkedin.com/in/vasilis-dimitrokallis-b856a5133/)
